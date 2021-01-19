@@ -13,7 +13,7 @@ Detailed YouTube tutorial is available at https://youtu.be/icW6QcqFqIA.
 - Connect your Arduino Uno using USB to PC.
 - Create a New Sketch from Web Editor.
 - Go to Libraries and search for Firmata.
-- Scroll down the search result, find <code>StandardFirmataPlus</code> and click on it.
+- Scroll down the <code> > Examples</code>, find <code>StandardFirmataPlus</code> and click on it.
 - Click on Upload.
 - The Arduino would start blinking. You will get the message <code>Success: Done uploading StandardFirmataPlus</code>.
 
